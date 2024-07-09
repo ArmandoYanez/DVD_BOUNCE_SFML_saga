@@ -76,8 +76,7 @@ int main() {
         // Dibujar el sprite del logo de DVD.
         window.draw(dvdLogoSprite);
 
-        // Mostrar el contenido de la ventana en pantalla.
-        // Mostrar el contenido de la ventana en pantalla.
+        // Mostrar el contenido de la ventana en panalla.
         window.display();
     }
 
