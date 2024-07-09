@@ -1,3 +1,5 @@
+//Creado por Armando Yañez
+
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <random>
